@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hernan
 
-**Tech Lead & Senior Backend Developer** with 12+ years of experience building scalable systems across Fintech, E-commerce and SaaS. Based in Argentina 🇦🇷
+**Tech Lead & Senior Backend Developer** with 16+ years of experience building scalable systems across Fintech, E-commerce and SaaS. Based in Argentina 🇦🇷
 
 ---
 
